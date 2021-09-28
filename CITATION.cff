@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Academy of Science and Literature | Mainz"
+    family-names: Schrade
+    given-names: Torsten
+    orcid: "https://orcid.org/0000-0002-0953-2818"
+cff-version: "1.1.0"
+date-released: 2019-03-25
+doi: "10.5281/zenodo.2604986"
+keywords: 
+  - webservice
+  - rdf
+  - xml
+  - "semantic-web"
+  - lod
+  - "extract-rdf-statement"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/digicademy/xtriples"
+title: XTriples
+version: "v1.4.0"
+...
